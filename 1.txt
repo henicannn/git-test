@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-This is my first file.
-
-Making some more changes.
-=======
 This is my first file.
 
 Making some more changes.
 
 New Branch.
->>>>>>> master
+
+Changes 2
